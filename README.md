@@ -38,7 +38,27 @@ The README file contains the description of the following projects:
 
 ----------------------------------------------------------
 
-## 3.	Heart Disease 
+## 3.	Heart Disease Visualization
+
+ Library used: (Pandas, Seaborn, Matplotlib)
+ 
+ About Dataset:
+ - This data set dates from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V.
+ - It contains 76 attributes, including the predicted attribute, but all published experiments refer to using a subset of 14 of them.
+ - The "target" field refers to the presence of heart disease in the patient. It is integer valued 0 = no disease and 1 = disease.
+ - Data visualization is a powerful tool for understanding and communicating insights from a dataset. It can help you to identify patterns, trends, and relationships in your data, and can be a useful way to communicate your findings to others.
+ - There are many different types of visualizations that you can use, and the best choice for a particular dataset will depend on the nature of the data and the insights you are trying to convey.
+ - Some common types of visualizations for exploring a heart disease dataset include scatter plots, line plots, bar plots, and histograms.
+
+ We are going to divide the project into 6 parts:
+  1. Heart Disease EDA - Age (DistPlot)
+  2. Heart Disease EDA - Categorical Columns (Pie Charts)
+  3. Heart Disease EDA - ViolinPlot
+  4. Heart Disease EDA - Correlation (HeatMap)
+  5. Heart Disease EDA - Corrlation (PairPlot)
+  6. Heart Disease EDA - Correlation - (JointPlot)
+ 
+-----------------------------------------------------------------
 
 ## 4.	Hotel Booking
 
