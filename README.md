@@ -44,7 +44,7 @@ The README file contains the description of the following projects:
 
 ## 3.	Heart Disease Visualization
 
- Library used: Pandas, Seaborn, Matplotlib
+ Library used: Numpy, Pandas, Seaborn, Matplotlib
  
  About Dataset:
  - This data set dates from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V.
@@ -66,9 +66,26 @@ The README file contains the description of the following projects:
 
 ## 4.	Hotel Booking
 
+
 ------------------------------------------------------------------
 
 ## 5.	Sugarcane Production
+
+  Library used: Numpy, Pandas, Seaborn, Matplotlib
+
+  About Dataset:
+   1. Worldwide 1,889,268,880 tones of sugarcane is produced per year.
+   2. 	Brazil is the largest sugarcane producer in the world with 768,678,382 tones production volume per year.
+   3. 	India comes second with 348,448,000 tones yearly production.
+   4. 	Brazil and India produce together 59% of World's total.
+
+ We are going to divide the project into 6 parts:
+   1. Dataset Walkthrough
+   2. Data Cleaning
+   3. Univariate Analysis
+   4. Bivariate Analysis
+   5. Correlation
+   6. Analysis for Continent
 
 ------------------------------------------------------------------
 
