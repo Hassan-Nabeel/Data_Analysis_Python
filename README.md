@@ -3,6 +3,8 @@ The README file contains the description of the following projects:
 
 ## 1. Black Friday Sales
 
+  Library used: Numpy, Pandas, Seaborn, Matplotlib
+
  About Dataset:
  - Black Friday is a shopping holiday  that takes place on the day after Thanksgiving. It is known for its deep discounts and special deals on a wide range of products, including electronics, home goods, clothing, and more. Many retailers offer special doorbuster deals and extended hours on Black Friday, and it is traditionally one of the busiest shopping days of the year. 
 - The dataset that we are having contains 537578 rows and 12 columns.
@@ -20,6 +22,8 @@ The README file contains the description of the following projects:
 ------------------------------------------------------------
 
 ## 2.	GDP Analysis
+
+  Library used: Numpy, Pandas, Seaborn, Matplotlib, Plotly
 
  About Dataset:
  - Gross Domestic Product (GDP) is a measure of the size and health of an economy. It represents the total value of all goods and services produced within a country over a specific period of time, usually a year. GDP is considered a key indicator of a country's economic performance and is used to compare the economic output of different countries.
@@ -40,7 +44,7 @@ The README file contains the description of the following projects:
 
 ## 3.	Heart Disease Visualization
 
- Library used: (Pandas, Seaborn, Matplotlib)
+ Library used: Pandas, Seaborn, Matplotlib
  
  About Dataset:
  - This data set dates from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V.
@@ -62,9 +66,17 @@ The README file contains the description of the following projects:
 
 ## 4.	Hotel Booking
 
+------------------------------------------------------------------
+
 ## 5.	Sugarcane Production
+
+------------------------------------------------------------------
 
 ## 6.	Walmart Analytics
 
+------------------------------------------------------------------
+
 ## 7.	My Uber Drives
+
+------------------------------------------------------------------
 
